@@ -39,6 +39,10 @@ Our technology reduces manual processing time by up to 80% compared to conventio
 | [`management-app`](https://github.com/CAUR-Technologies/management-app) | Survey and project management platform | Active |
 | [`dispersion-viewer`](https://github.com/CAUR-Technologies/dispersion-viewer) | Interactive dispersion curve visualization UI | Active |
 | [`xnoise-app`](https://github.com/CAUR-Technologies/xnoise-app) | Web interface for noise cross-correlation | Active |
+
+### TISAR Platform
+| Repository | Description | Status |
+|---|---|---|
 | [`tisar-web`](https://github.com/CAUR-Technologies/tisar-web) | Web processing interface | Active |
 
 ### Hardware & IoT
