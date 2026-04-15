@@ -14,9 +14,10 @@ We provide end-to-end ANT survey services to the mineral exploration industry:
 - **Data processing** — noise cross-correlation, dispersion curve extraction
 - **AI-assisted picking** — automated surface wave dispersion curve interpretation
 - **3D inversion** — shear-wave velocity modeling of subsurface structures
+- **Multi-physics and geology modeling** — Combined ANT with any available data for geological modeling
 - **Deliverables** — PDF reports and 3D geological models
 
-Our technology reduces manual processing time by up to 80% compared to conventional workflows, enabling faster turnaround for exploration projects.
+Our technology reduces manual processing time by up to 80% compared to conventional workflows, enabling hight quality and faster turnaround for exploration projects.
 
 ---
 
