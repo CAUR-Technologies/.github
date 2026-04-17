@@ -1,4 +1,4 @@
-# CAUR Technologies
+h# CAUR Technologies
 
 **Innovating for Exploration — Innovation Pour l'Exploration**
 
@@ -94,6 +94,12 @@ Our current R&D priorities, structured around the [Pisano framework (HBS, 2012)]
 | Janny Desgagné | Computational Geoscientist |
 | Antonia Alvarado | Senior Geophysicist |
 | Alexi Morin | Computational Geoscientist |
+
+---
+
+## 🤝 Contributing
+
+Before opening a branch or PR on any CAUR repository, read our **[Git Flow guide](https://github.com/CAUR-Technologies/.github/blob/master/CONTRIBUTING.md)** — it covers branch naming, issue creation (including GitHub CLI), commit format, and who to assign as reviewer.
 
 ---
 
