@@ -9,8 +9,7 @@
 1. [About CAUR](#1-about-caur)
 2. [Our R&D Team](#2-our-rd-team)
 3. [How We Work](#3-how-we-work)
-4. [Getting Started](#4-getting-started)
-5. [Get in Touch](#5-get-in-touch)
+4. [Get in Touch](#5-get-in-touch)
 
 ---
 
@@ -50,20 +49,7 @@ New contributors will find a dedicated contribution guide that explains our work
 
 ---
 
-## 4. Getting Started
-
-If you're joining the team or starting to contribute:
-
-1. Get familiar with the project structure and current priorities
-2. Read the internal contribution guide for workflow details
-3. Set up your local development environment
-4. Reach out to your reviewer or onboarding buddy if anything is unclear
-
-We try to make ramp-up as smooth as possible — never hesitate to ask questions.
-
----
-
-## 5. Get in Touch
+## 4. Get in Touch
 
 For anything related to the R&D team, project access, or general questions, contact your team lead or the relevant project maintainer.
 
