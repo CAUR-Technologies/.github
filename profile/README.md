@@ -1,114 +1,72 @@
-h# CAUR Technologies
+# Welcome to CAUR Technologies
 
-**Innovating for Exploration — Innovation Pour l'Exploration**
-
-CAUR Technologies develops AI-powered geophysical survey solutions based on **Ambient Noise Tomography (ANT)** — a passive seismic method that images subsurface structures up to 5km depth without active seismic sources.
+*R&D Team · April 2026*
 
 ---
 
-## 🌍 What We Do
+## Table of Contents
 
-We provide end-to-end ANT survey services to the mineral exploration industry:
-
-- **Field acquisition** — wireless geophone network deployment
-- **Data processing** — noise cross-correlation, dispersion curve extraction
-- **AI-assisted picking** — automated surface wave dispersion curve interpretation
-- **3D inversion** — shear-wave velocity modeling of subsurface structures
-- **Multi-physics and geology modeling** — Combined ANT with any available data for geological modeling
-- **Deliverables** — PDF reports and 3D geological models
-
-Our technology reduces manual processing time by up to 80% compared to conventional workflows, enabling hight quality and faster turnaround for exploration projects.
+1. [About CAUR](#1-about-caur)
+2. [Our R&D Team](#2-our-rd-team)
+3. [How We Work](#3-how-we-work)
+4. [Getting Started](#4-getting-started)
+5. [Get in Touch](#5-get-in-touch)
 
 ---
 
-## 🗂 Repositories
+## 1. About CAUR
 
-### Core ANT Processing Pipeline
+CAUR Technologies is a technology company focused on building reliable, high-quality engineering solutions. Our team brings together expertise across software development, data processing, infrastructure, and platform engineering to deliver tools that are both robust and a pleasure to work with.
 
-| Repository | Description | Status |
-|---|---|---|
-| [`xnoise`](https://github.com/CAUR-Technologies/xnoise) | Ambient noise cross-correlation and pre-processing | Active |
-| [`estuaire`](https://github.com/CAUR-Technologies/estuaire) | ANT dispersion curve extraction and analysis | Active |
-| [`dispcurve`](https://github.com/CAUR-Technologies/dispcurve) | Automated surface wave dispersion curve picking | Active |
-| [`uquake-caur`](https://github.com/CAUR-Technologies/uquake-caur) | Seismic data processing — fork of uquake | Active |
-
-### Platform & Web Applications
-
-| Repository | Description | Status |
-|---|---|---|
-| [`management-app`](https://github.com/CAUR-Technologies/management-app) | Survey and project management platform | Active |
-| [`dispersion-viewer`](https://github.com/CAUR-Technologies/dispersion-viewer) | Interactive dispersion curve visualization UI | Active |
-| [`xnoise-app`](https://github.com/CAUR-Technologies/xnoise-app) | Web interface for noise cross-correlation | Active |
-
-### TISAR Platform
-| Repository | Description | Status |
-|---|---|---|
-| [`tisar-web`](https://github.com/CAUR-Technologies/tisar-web) | Web processing interface | Active |
-
-### Hardware & IoT
-
-| Repository | Description | Status |
-|---|---|---|
-| [`esp-at`](https://github.com/CAUR-Technologies/esp-at) | ESP32 firmware for wireless geophone network | Active |
-
-### Machine Learning & Data
-
-| Repository | Description | Status |
-|---|---|---|
-| [`ANT_Dataset`](https://github.com/CAUR-Technologies/ANT_Dataset) | Synthetic 3D model generation for ANT training data | Active |
-| [`obspy`](https://github.com/CAUR-Technologies/obspy) | ObsPy seismology toolbox — CAUR fork | Reference |
+We value clarity, collaboration, and craftsmanship — in our code, in our documentation, and in the way we communicate with each other.
 
 ---
 
-## 🔬 Technology Stack
+## 2. Our R&D Team
 
-**Languages:** Python · JavaScript · TypeScript · C · Jupyter Notebook
+Our Research & Development team is the engine behind everything we build. From experimentation and prototyping to production-grade pipelines, the R&D team explores new ideas, validates them, and turns them into stable, maintainable products.
 
-**Key dependencies:** ObsPy · NumPy · SciPy · PyTorch · FastAPI
+Areas we work in include:
 
-**Infrastructure:** Cloud-hosted processing pipeline · Vercel (web deployment) · GitHub Actions (CI/CD)
-
----
-
-## 🧭 R&D Roadmap (2026)
-
-Our current R&D priorities, structured around the [Pisano framework (HBS, 2012)](https://hbr.org/2012/06/can-science-be-a-business):
-
-| Phase | Focus | Timeline |
-|---|---|---|
-| **Phase 0** | Stabilization — production pipeline hardening | Weeks 1–4 |
-| **Phase 1** | AI autopicking — eliminate manual dispersion curve picking | M2–M5 |
-| **Phase 2** | Platform & differentiation — SaaS architecture + Geophone V2 | M6–M12 |
-| **Phase 3** | Growth & new markets — FWI, joint inversion, partnerships | M10–M18+ |
+- **Pipeline & processing** — Designing and operating data processing pipelines
+- **Platform & API** — Building the services that power our products
+- **Web frontend** — Crafting clean, usable interfaces
+- **Infrastructure** — Keeping everything reliable, secure, and scalable
+- **Security** — Protecting our systems and our users' data
 
 ---
 
-## 👥 Team
+## 3. How We Work
 
-| Name | Role |
-|---|---|
-| Daniel Campos | Managing Director |
-| Olivier Létourneau | Chief Innovation Officer |
-| David Shak | Chief Technology Officer |
-| Maher Nasr | Senior Seismologist |
-| Janny Desgagné | Computational Geoscientist |
-| Antonia Alvarado | Senior Geophysicist |
-| Alexi Morin | Computational Geoscientist |
+We believe that good engineering practices make great products possible. A few principles guide our day-to-day:
 
----
+- **Shared conventions** — We agree on simple, consistent ways of working so the team stays aligned
+- **Review culture** — Every change is reviewed by a peer before it ships
+- **Small, frequent iterations** — We prefer small, focused changes over large, risky ones
+- **Clear communication** — In commits, in pull requests, in documentation, and with each other
+- **Stable releases** — Production is always reliable, tagged, and traceable
 
-## 🤝 Contributing
-
-Before opening a branch or PR on any CAUR repository, read our **[Git Flow guide](https://github.com/CAUR-Technologies/.github/blob/master/CONTRIBUTING.md)** — it covers branch naming, issue creation (including GitHub CLI), commit format, and who to assign as reviewer.
+New contributors will find a dedicated contribution guide that explains our workflow in detail.
 
 ---
 
-## 📬 Contact
+## 4. Getting Started
 
-**Website:** [caurtech.com](https://caurtech.com)
-**Email:** info@caurtech.com
-**Location:** Montréal, Québec, Canada
+If you're joining the team or starting to contribute:
+
+1. Get familiar with the project structure and current priorities
+2. Read the internal contribution guide for workflow details
+3. Set up your local development environment
+4. Reach out to your reviewer or onboarding buddy if anything is unclear
+
+We try to make ramp-up as smooth as possible — never hesitate to ask questions.
 
 ---
 
-*CAUR Technologies — Confidential. Internal repositories are private. Contact us for collaboration inquiries.*
+## 5. Get in Touch
+
+For anything related to the R&D team, project access, or general questions, contact your team lead or the relevant project maintainer.
+
+---
+
+*CAUR Technologies · April 2026*
